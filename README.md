@@ -1,4 +1,4 @@
- #iMTECH is a repository developed by the University of Craiova, Romania (www.ucv.ro) and was supported from two research grants:
+ iMTECH is a repository developed by the University of Craiova, Romania (www.ucv.ro) and was supported from two research grants:
 
 1. Navigation system for confocal laser endomicroscopy to improve optical biopsy of peripheral lesions in the lungs (NAVICAD), supported by Financial Mechanism EEA 2009-2014, EEA-JRP-RO-NO-2013-1-0123,
 2. Improving the research and development capacity for imaging and advanced technology for minimal invasive medical procedures (iMTECH), Contract No. 65/08.09.2016, SMIS-Code: 103633 funded by European Union under Competitiveness Operational Program 2014-2020, project P_37_357
