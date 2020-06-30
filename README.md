@@ -1,2 +1,2 @@
 # imtech
-application for medical imaging and navigation using electromagnetic and optical tracking - NOT FOR MEDICAL USE
+repository developed during NAVICAD and iMTECH projects
