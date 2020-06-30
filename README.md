@@ -1,2 +1,2 @@
 # imtech
-application for medical imaging, navigation, electromagnetic and optical tracking. NOT FOR MEDICAL USE
+application for medical imaging and navigation using electromagnetic and optical tracking - NOT FOR MEDICAL USE
